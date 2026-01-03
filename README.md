@@ -95,3 +95,16 @@ GITHUB :-
 * Create a repositorie.
 * Make it public or private.
 * Git push
+
+provide self details to git :-
+-> git config --global user.name "Harsh Agarwal"
+-> git config --global user.email "harshagarwal637@gmail.com"
+for seeing details : git config user.name
+                     git config user.email
+
+commands and use :-
+1. cd -> used for change the directory.
+2. pwd -> show the current path/location.
+
+
+
